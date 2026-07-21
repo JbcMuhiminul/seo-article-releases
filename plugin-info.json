@@ -1,13 +1,13 @@
 {
   "name": "SEO Article",
   "slug": "seo-article",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "requires": "5.8",
   "tested": "6.7",
   "requires_php": "8.0",
-  "download_url": "https://github.com/JbcMuhiminul/seo-article-releases/releases/download/v1.0.1/seo-article-1.0.1.zip",
+  "download_url": "https://github.com/JbcMuhiminul/seo-article-releases/releases/download/v1.0.2/seo-article-1.0.2.zip",
   "sections": {
     "description": "Automatically syncs SEO articles from the SEO platform into WordPress.",
-    "changelog": "= 1.0.1 =\n* Test release."
+    "changelog": "= 1.0.2 =\n* Auth section Save now triggers a fresh login and page reload automatically.\n* Status bar now displays the account name from the API instead of the email address.\n* Tag assignment disabled — articles no longer auto-register WordPress tags on sync.\n* Japanese (ja) translation corrected and recompiled.\n* Built-in update checker added — future updates appear natively in the Plugins screen.\n\n= 1.0.1 =\n* Test release."
   }
 }
